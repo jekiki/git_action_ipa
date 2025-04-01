@@ -1,4 +1,5 @@
 output: dist/
+path: dist/v1.1.1/git_action_ipa-v1.1.1-windows-setup.exe
 releases:
   - name: prod
     jobs:
